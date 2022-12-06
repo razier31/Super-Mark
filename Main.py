@@ -1,0 +1,2 @@
+from winAcceso import *
+Main()
